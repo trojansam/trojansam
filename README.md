@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sam
+- 👀 I’m interested in making kickass software applications
+- 🌱 I’m currently learning C#
